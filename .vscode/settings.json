@@ -1,6 +1,7 @@
 {
     "files.associations": {
         "HW4_1.C": "cpp",
-        "HW5_1.C": "cpp"
+        "HW5_1.C": "cpp",
+        "ratio": "c"
     }
 }
